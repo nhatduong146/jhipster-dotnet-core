@@ -1,0 +1,29 @@
+{
+  "generator-jhipster": {
+    "jhipsterVersion": "8.1.0",
+    "blueprints": [
+      {
+        "name": "generator-jhipster-dotnetcore",
+        "version": "4.1.0"
+      }
+    ],
+    "baseName": "jhipsterExample",
+    "creationTimestamp": 1710254369644,
+    "namespace": "JhipsterExample",
+    "clientFramework": "Blazor",
+    "microfrontend": null,
+    "microfrontends": [],
+    "clientTestFrameworks": null,
+    "withAdminUi": null,
+    "clientTheme": null,
+    "devServerPort": 9060,
+    "applicationType": "monolith",
+    "serverPort": "5000",
+    "authenticationType": "jwt",
+    "databaseType": "mssql",
+    "cqrsEnabled": true,
+    "withTerraformAzureScripts": false,
+    "jwtSecretKey": "YzgzMzcyYTA0NTJlNjNiM2VlMjY1ZjAwNjk2MjMzMzM2OTBiMDVkZmEwMTNhNmNlNjAxZmI2ZDI3NzU5ZTUwYmE0ODBhOGMzODJkMjM4Y2Y5Yzg2NmRiOTVjZDVkMjEwNGFjNw==",
+    "entities": []
+  }
+}
